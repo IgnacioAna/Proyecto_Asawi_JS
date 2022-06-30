@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.titulo {
+    text-decoration: overline;
+}
+
+.borderr {
+    border: 4px solid red;
+}
+
+.borderr1 {
+    border: 4px solid white;
+}
+
+.font {
+    font-size: large;
+}
+
+.text {
+
+    color: white;
+
+}
